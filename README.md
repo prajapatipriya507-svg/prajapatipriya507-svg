@@ -2,6 +2,12 @@
 
 # Priya507
 
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│        silicon → gates → logic → systems                           │
+│                                                                   │
+└─────────────────────────────────────────────────────────────────┘
+
 Hi,
 I am an Integrated (Btech+Mtech) student in Electronics & Communication Engineering interested in digital hardware design, computer architechture and vlsi design.
 
