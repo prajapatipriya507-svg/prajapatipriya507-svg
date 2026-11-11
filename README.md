@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**prajapatipriya507-svg/prajapatipriya507-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Priya507
 
-Here are some ideas to get you started:
+Hi,
+I am an Integrated (Btech+Mtech) student in Electronics & Communication Engineering interested in digital hardware design, computer architechture and vlsi design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+Languages and Tools
+
+Verilog SystemVerilog C C++ Python
+
+Vivado ModelSim GTKWave Git
+
+
+
 -->
