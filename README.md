@@ -9,10 +9,12 @@ I am an Integrated (Btech+Mtech) student in Electronics & Communication Engineer
 
 
 Languages and Tools
-
-Verilog SystemVerilog C C++ Python
-
-Vivado ModelSim GTKWave Git
+<p align="center">
+  <img src="https://img.shields.io/badge/Verilog-RTL%20Design-blue?style=for-the-badge&logo=verilog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-Programming-00599C?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/Vivado-FPGA-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git"/>
+</p>
 
 
 
